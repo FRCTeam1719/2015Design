@@ -1,3 +1,1 @@
-This is test 2 from Pete but behind Brandon
-
-Pete
+This is a merge of mine and Brandon
